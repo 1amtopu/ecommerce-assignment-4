@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'verdana', 'sans-serif';
+}
+
+.topnav {
+    float: left;
+    height: 90px;
+    width: 1366px;
+    background-color: maroon;
+}
+
+.topnav p {
+    font-size: 30px;
+    padding: 25px;
+    color: whitesmoke;
+}
+
+.menu a {
+    height: 25px;
+    margin: 15px;
+    text-decoration: none;
+    color: whitesmoke;
+}
